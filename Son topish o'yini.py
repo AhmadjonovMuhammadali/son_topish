@@ -1,4 +1,4 @@
 
 import Play
 
-Play.play(100)
+Play.play()
